@@ -18,8 +18,7 @@
     />
   </picture>
   <br>
-  <a href="https://t.me/desforge_cryptwo"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
-  <a href="mailto:domaseddd@gmail.com"><img src="https://img.shields.io/badge/Mail-%232E87FB?style=for-the-badge&logo=gmail&logoColor=white&color=C71610"/></a>
+  <a href="https://t.me/junjunnizz"><img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel"></a>
   <br>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Desamod&label=Profile%20Visits&style=for-the-badge" />
   <br>
@@ -30,7 +29,7 @@
 <h1 align="left"><img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=032" alt="Bitcoin logo" width="30" height="30"> Bitcoin </h1>
 
 ```
-1CSz5JfxpjrJJi3v747kkb45xFNzN31fQi
+bc1p4umpqu755hy3cw56uf5f7j7rafcjvrjgf9dp7qej3yc3tdtng88sj800y6
 ```
 <h1 align="left">
   <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
@@ -38,7 +37,7 @@
   USDT Ton | Toncoin | Notcoin </h1>
 
 ```
-UQBE3-0YRXtKsrLH2ejNt1C5yiUUzWD-w8feAeUo2ABSakj4
+UQCoetOImEgtp3dDMeVRV7WtkN8ysxdeExabQQOdyUehqNyp
 ```
 
 <h1 align="left">
@@ -47,7 +46,7 @@ UQBE3-0YRXtKsrLH2ejNt1C5yiUUzWD-w8feAeUo2ABSakj4
   USDT TRC20 | Tron </h1>
   
 ```
-TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
+TZBp1UGNyABmiMnynGbiW53WJLCYqorLMT
 ```
 <h1 align="left">
   <img src="https://cryptologos.cc/logos/tether-usdt-logo.svg?v=032" alt="Tether logo" width="30" height="30">
@@ -55,7 +54,7 @@ TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
   USDT BEP20 </h1>
   
 ```
-0x5fbe46d49f5d935f66fd42491f81fda1773c88e6
+0x8d7de458060bd070fe69f14031f0f44d143903ff
 ```
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -64,22 +63,22 @@ TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
     <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinyuzjj&theme=github_dark"
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Desamod&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinyuzjjtheme=nord_bright"
     />
   </picture>
   <a style="display: flex; align-items: left;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinyuzjj&theme=github_dark"
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Desamod&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinyuzjj&theme=nord_bright"
     />
   </picture>
   </a>
@@ -87,11 +86,11 @@ TN2yy56bmbXYosS2jnjW9TyiJbs5Qdtv4m
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=github_dark"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xinyuzjj&theme=github_dark"
     />
     <img
       alt="github profile details"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Desamod&theme=nord_bright"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xinyuzjj&theme=nord_bright"
     />
   </picture>
   </a>
